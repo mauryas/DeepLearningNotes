@@ -1,5 +1,7 @@
-Introduction
+#Introduction
+
 ++++++++++++++++++
+
 This repository is created while learning different deep learning methods and code snippets created while implementing those techniques. 
 The codes are trained using Google Cloud Platform and there might be still scope for hyper-parameter optimizations. The dataset used is
 from Kaggle's Statoil/C-CORE Iceberg Classifier Challenge because most of the algorithms have implementations which work very well with
